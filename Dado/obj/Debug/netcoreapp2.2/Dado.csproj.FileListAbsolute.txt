@@ -1,0 +1,11 @@
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\bin\Debug\netcoreapp2.2\Dado.deps.json
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\bin\Debug\netcoreapp2.2\Dado.runtimeconfig.json
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\bin\Debug\netcoreapp2.2\Dado.runtimeconfig.dev.json
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\bin\Debug\netcoreapp2.2\Dado.dll
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\bin\Debug\netcoreapp2.2\Dado.pdb
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\obj\Debug\netcoreapp2.2\Dado.csprojAssemblyReference.cache
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\obj\Debug\netcoreapp2.2\Dado.csproj.CoreCompileInputs.cache
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\obj\Debug\netcoreapp2.2\Dado.AssemblyInfoInputs.cache
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\obj\Debug\netcoreapp2.2\Dado.AssemblyInfo.cs
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\obj\Debug\netcoreapp2.2\Dado.dll
+C:\Users\beto_\Documents\Tarea_Unidad2\Dado\obj\Debug\netcoreapp2.2\Dado.pdb
