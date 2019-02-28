@@ -1,0 +1,11 @@
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\bin\Debug\netcoreapp2.2\ClaseDado.deps.json
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\bin\Debug\netcoreapp2.2\ClaseDado.runtimeconfig.json
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\bin\Debug\netcoreapp2.2\ClaseDado.runtimeconfig.dev.json
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\bin\Debug\netcoreapp2.2\ClaseDado.dll
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\bin\Debug\netcoreapp2.2\ClaseDado.pdb
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\obj\Debug\netcoreapp2.2\ClaseDado.csprojAssemblyReference.cache
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\obj\Debug\netcoreapp2.2\ClaseDado.csproj.CoreCompileInputs.cache
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\obj\Debug\netcoreapp2.2\ClaseDado.AssemblyInfoInputs.cache
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\obj\Debug\netcoreapp2.2\ClaseDado.AssemblyInfo.cs
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\obj\Debug\netcoreapp2.2\ClaseDado.dll
+C:\Users\beto_\Documents\Tarea_Unidad2\ClaseDado\obj\Debug\netcoreapp2.2\ClaseDado.pdb
